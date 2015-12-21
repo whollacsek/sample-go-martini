@@ -14,5 +14,5 @@
       "generator": "secret"
     }
   },
-  "addons": ["scalingo-redis"]
+  "addons": ["scalingo-redis"],
 }
